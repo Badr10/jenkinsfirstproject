@@ -1,4 +1,6 @@
 
 print("hello world")
-print("number1 lloppp")
+i = 0;
+sum = i + 7;
+print(sum)
 print("done")
